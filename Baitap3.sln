@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitap3", "Baitap3\Baitap3.csproj", "{F78C69C0-B0BB-46C5-83DE-38DACF30B776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function", "Function\Function.csproj", "{BF6B61DE-F954-40AE-B47F-C4E451A246F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78C69C0-B0BB-46C5-83DE-38DACF30B776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78C69C0-B0BB-46C5-83DE-38DACF30B776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78C69C0-B0BB-46C5-83DE-38DACF30B776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78C69C0-B0BB-46C5-83DE-38DACF30B776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6B61DE-F954-40AE-B47F-C4E451A246F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6B61DE-F954-40AE-B47F-C4E451A246F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6B61DE-F954-40AE-B47F-C4E451A246F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6B61DE-F954-40AE-B47F-C4E451A246F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10170C44-36BD-4BF8-A791-2390CE8C9904}
+	EndGlobalSection
+EndGlobal
